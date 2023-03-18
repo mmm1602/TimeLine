@@ -1,0 +1,181 @@
+#TL_Container {
+    border-width: 0px 10px;
+    background-image: linear-gradient(to bottom, rgb(56, 56, 56), rgb(37, 37, 37));
+    border-color: #0005;
+    border-style: solid;
+    border-radius: 30px;
+    margin: 5%;
+    padding: 5%;
+}
+
+#Timeline {
+    --space: 2rem;
+    display: grid;
+    grid-auto-flow: column;
+    gap: var(--space);
+    margin: 0px 2%;
+    margin-bottom: 1%;
+    overscroll-behavior-inline:contain;
+    white-space: nowrap;
+    background-color: transparent;
+    overflow-x: auto;
+}
+
+.item {
+  height: 300px;
+  width: 60vh;
+  border-radius: 30px;
+  border: #222 5px solid;
+  background-size: 100%;
+  margin: 40px 0px;
+  cursor: pointer;
+  transition: all .5s;
+}
+
+.item:hover {
+    width: 65vh;
+    border: white 5px solid;
+}
+
+#i1 {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/19/Yalta_Conference_1945_Churchill%2C_Stalin%2C_Roosevelt.jpg);
+  background-position: 50% 70%;
+  background-size: 150%;
+}
+
+#i2 {
+  background-image: url(https://static.dw.com/image/16441900_303.jpg);
+}
+
+#i3 {
+  background-image: url(https://ichef.bbci.co.uk/news/640/cpsprodpb/13847/production/_124834997_gettyimages-2666858-1.jpg);
+}
+
+#i4 {
+  background-image: url(https://www.tarihiolaylar.com/img/tarihiolaylar/tarihi_olaylar_kominform-2_700p-jpg_778341792_1432377420.jpg);
+}
+
+#i5 {
+  background-image: url(https://img2.rtve.es/imagenes/documentos-rne-plan-marshall-ayuda-americana-impulso-nueva-europa-10-08-18/1523110139923.jpg);
+}
+
+#i6 {
+  background-image: url(https://www.lavanguardia.com/files/og_thumbnail/uploads/2018/11/26/5f15f2754c6bf.jpeg);
+}
+
+#i7 {
+  background-image: url(https://www.telesurtv.net/export/sites/telesur/img/multimedia/2018/09/30/imagen1.jpg_825434843.jpg);
+}
+
+#i8 {
+  background-image: url(https://assets.nationbuilder.com/cdfai/pages/4271/meta_images/original/NATO_Past_Present_and_Future_Header.jpg);
+}
+
+#i9 {
+  background-image: url(https://www.clarin.com/img/2018/01/03/HylGQwqQG_600x338.jpg);
+}
+
+#i10 {
+  background-image: url(https://mf.b37mrtl.ru/rbthmedia/images/2019.02/article/5c6ff4d785600a09167f8715.jpg);
+}
+
+#i11 {
+  background-image: url(https://static.nationalgeographicla.com/files/styles/image_3200/public/berlin-wall-reference-548158715.jpg);
+}
+
+#i12 {
+  background-image: url(https://cdn.zendalibros.com/wp-content/uploads/crisis-de-los-misiles-de-cuba.jpg);
+}
+
+#i13 {
+  background-image: url(https://i.blogs.es/60c9ce/red-g001e6d8f7_1920/1366_2000.jpeg);
+}
+
+#i14 {
+  background-image: url(https://cdn.aarp.net/content/dam/aarp/politics/events-and-history/2017/07/Vietnam/1140-wounded-soldiers-vietnam-war-changed-everything-esp.jpg);
+}
+
+#i15 {
+  background-image: url(https://research-methodology.net/wp-content/uploads/2016/05/How-can-we-better-understand-the-ideology-of-Washington-Consensus.jpg);
+}
+
+#i16 {
+  background-image: url(https://cdn.milenio.com/uploads/media/2022/02/24/bandera-de-la-union-sovietica.jpeg);
+}
+
+#Fecha {
+  color: white;
+  position: relative;
+  font-size: 30px;
+  text-shadow: #333 2px 2px;
+}
+#Titulo {
+  color: white;
+  position: relative;
+  font-size: 20px;
+  text-shadow: #333 2px 2px;
+}
+
+
+
+div#s_Info {
+  width: 100%;
+  padding: auto;
+  margin: auto;
+  margin-bottom: 8%;
+}
+
+div#s_Info > h2 {
+  position: relative;
+  width: 70%;
+  padding: auto; 
+  margin: auto;
+
+  margin-top: 50px;
+  margin-bottom: 30px;
+  color: #73a4ff;
+  font-size: 35px;
+}
+
+div#s_Info > p {
+  width: 70%;
+  padding: auto;
+  margin: auto;
+  color: white;
+  font-size: 25px;
+  margin-bottom: 40px;
+}
+
+
+
+
+
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: white;
+  border-radius: 30px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 30px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #222;
+}
+
+@media (max-width: 500px) {
+  #item {
+    height: 200px;
+    width: 40vh;
+  }
+
+  #s_Info > h2 {
+    width: 100%;
+  }
+}

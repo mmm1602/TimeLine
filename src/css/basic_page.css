@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+header {
+    background-color: #202020;
+}
+
+body {
+    background-color: #404040;
+}
+
+footer {
+    background-color: #202020;
+    color: white;
+    border-radius: 30px 30px 0px 0px;
+}
+
+footer > ol {
+    margin-left: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    list-style:inside;
+}
+
+footer > ol > li {
+    margin-top: 5px;
+}

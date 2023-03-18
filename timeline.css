@@ -45,10 +45,14 @@
     border: white 5px solid;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 600px) {
   .item{
-    width: 20vw;
+    width: 60vw;
   }
+  .item:hover {
+    width: 55vw;
+    border: white 5px solid;
+}
 }
 
 #i1 {

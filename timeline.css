@@ -47,7 +47,7 @@
 
 @media (max-width: 600px) {
   .item{
-    width: 60vw;
+    width: 60vh;
   }
   .item:hover {
     width: 55vw;

@@ -32,9 +32,23 @@
   transition: all .5s;
 }
 
+.Separator {
+  width: 5px;
+  height: 80%;
+  margin: 40px 0px;
+  border-radius: 2.5px;
+  background-color: #0005;
+}
+
 .item:hover {
     width: 65vh;
     border: white 5px solid;
+}
+
+@media (max-width: 480px) {
+  .item{
+    width: 20vh;
+  }
 }
 
 #i1 {

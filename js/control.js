@@ -75,11 +75,51 @@ $(".item").click(function(e) {
         break;
 
         case "i17":
-        InfoText.innerHTML = "No hay informacion.";
+        InfoText.innerHTML = "Sputnik 1, primer satelite en orbitar la tierra.";
         break;
 
         case "i18":
-        InfoText.innerHTML = "No hay informacion.";
+        InfoText.innerHTML = "Laika, primer animal en ir al espacio, muelta.";
+        break;
+
+        case "i19":
+        InfoText.innerHTML = "Vanguard 1, primer satelite alimentado por energía solar y sigue orbitando actualmente, gran victoria para pEpEpUpU porque está re op y sigue arriba y en cambio los otros primeros satélites ya se cayeron.";
+        break;
+
+        case "i20":
+        InfoText.innerHTML = "El luna 2 se convierte en el primer objeto en impactar con la luna. Primera imagen de la cara oculta de la luna tomada por el Luna 3";
+        break;
+
+        case "i21":
+        InfoText.innerHTML = "Ham el chumpance se vuelve el primer homínido en ir al espacio, duro 16 minutos y 39 segundos.";
+        break;
+
+        case "i22":
+        InfoText.innerHTML = "Yuri Alekséyevich Gagarin se convirtió en el primer humano en viajar al espacio.";
+        break;
+
+        case "i23":
+        InfoText.innerHTML = "A bordo de la Vostok 6, Valentina Tereshkova se convertía en la primera mujer en viajar al espacio.";
+        break;
+
+        case "i24":
+        InfoText.innerHTML = "Alexei Arkhipovich Leonov, quien viajaba a bordo de la Voskhod 2, se convierte en el primer ser humano en realizar un paseo espacial saliendo de la nave que compartía con el cosmonauta Pavel Belyayev durante 12 minutos.";
+        break;
+
+        case "i25":
+        InfoText.innerHTML = "Primer vuelo espacial tripulado por humanos alrededor a la Luna. Se trata también del primer vuelo espacial humano en entrar en la influencia gravitatoria de otro cuerpo celeste. Neil Armstrong y Buzz Aldrin se convertían en los dos primeros hombre en posarse en la Luna a bordo del modulo Lunar Eagle de la misión Apolo 11.";
+        break;
+
+        case "i26":
+        InfoText.innerHTML = "La Pioneer 10 de la NASA se convierte en la primera sonda espacial en alcanzar la órbita de Júpiter.";
+        break;
+
+        case "i27":
+        InfoText.innerHTML = "La sonda Mariner 10 de la NASA se convierte en la primera en realizar un vuelo sobre mercurio.";
+        break;
+
+        case "i28":
+        InfoText.innerHTML = "Se produce en la órbita de la Tierra el acoplamiento de las naves Soyuz y Apolo 18. Se trato de la primera misión conjunta de las agencias espaciales de ambos países. Historiadores coinciden en que con este hecho se dio por finalizada la Guerra Fría";
         break;
 
 

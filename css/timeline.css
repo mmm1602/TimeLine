@@ -8,6 +8,11 @@
     padding: 5%;
 }
 
+#TL_Container > h1 {
+  color: white;
+    margin: auto;
+}
+
 #Timeline {
     --space: 2rem;
     display: grid;
@@ -45,7 +50,7 @@
     border: white 5px solid;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   .item{
     width: 60vh;
   }
@@ -119,6 +124,44 @@
 
 #i16 {
   background-image: url(https://cdn.milenio.com/uploads/media/2022/02/24/bandera-de-la-union-sovietica.jpeg);
+}
+
+#i17 {
+  background-image: url(https://spaceexplored.com/wp-content/uploads/sites/10/2020/10/Sputnik-1-Satelllite.jpg);
+}
+
+#i18 {
+  background-image: url(https://upload.wikimedia.org/wikipedia/en/7/71/Laika_%28Soviet_dog%29.jpg);
+}
+#i19 {
+  background-image: url(https://astronomy.com/~/media/9176B7B4E18A46219850E4E6526E4C40.jpg);
+}
+#i20 {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/8/86/Luna-3_%28Memorial_Museum_of_Astronautics%29.JPG);
+}
+#i21 {
+  background-image: url(https://i0.wp.com/zoohistories.com/wp-content/uploads/2018/12/maxresdefault.jpg);
+}
+#i22 {
+  background-image: url(https://1.bp.blogspot.com/-aGdGGLkoGPw/YHQ9ZCPV2fI/AAAAAAAAJfQ/yuNW0AAeTE4w5dJdJNAe4fuwNGdzSmBogCLcBGAsYHQ/s879/yuri%2Bgagarin%2Bussr.jpg);
+}
+#i23 {
+  background-image: url(https://historia.nationalgeographic.com.es/medio/2019/06/13/valentina-tereshkova-astronauta_a33a0eb4_1400x912.jpg);
+}
+#i24 {
+  background-image: url(https://cdn.britannica.com/40/149340-131-BD48E116/stills-Aleksey-Leonov-movie-camera-spacecraft-Voskhod-March-18-1965.jpg);
+}
+#i25 {
+  background-image: url(https://i.ytimg.com/vi/S9HdPi9Ikhk/maxresdefault.jpg);
+}
+#i26 {
+  background-image: url(https://www.nasa.gov/sites/default/files/thumbnails/image/pioneer10_art.jpg);
+}
+#i27 {
+  background-image: url(https://live.staticflickr.com/5561/30668697263_5fe83ff6a7_b.jpg);
+}
+#i28 {
+  background-image: url(https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91nnl4FLNML.jpg);
 }
 
 #Fecha {

@@ -1,3 +1,4 @@
+MainTitle = document.getElementById("MainTitle");
 InfoTitle = document.getElementById("title_Info");
 InfoText = document.getElementById("t_Info");
 const letters = "abcdefghijklmnopqrstuvwxyz"
@@ -87,6 +88,8 @@ $(".item").click(function(e) {
         break;
 
     }
+
+    MainTitle.innerHTML = e.currentTarget.dataset.value;
 
     interval = setInterval(() => 
     {

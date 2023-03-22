@@ -59,7 +59,7 @@ $(".item").click(function(e) {
         break;
 
         case "i13":
-        InfoText.innerHTML = "No hay informacion.";
+        InfoText.innerHTML = "El teléfono rojo es un enlace de comunicación directa entre Rusia y los Estados Unidos destinada a que ambos países hablen en directo ante cualquier urgencia política o militar que ponga en peligro la paz entre las naciones.";
         break;
 
         case "i14":
@@ -67,59 +67,59 @@ $(".item").click(function(e) {
         break;
 
         case "i15":
-        InfoText.innerHTML = "No hay informacion.";
+        InfoText.innerHTML = "Denominado Consenso de Washington se refiere al conjunto de medidas de política económica de corte neoliberal aplicadas a partir de los años ochenta para, por un lado, hacer frente a la reducción de la tasa de beneficio en los países del Norte tras la crisis económica de los setenta, y por otro, como salida impuesta por el Fondo Monetario Internacional (FMI) y el Banco Mundial (BM) a los países del Sur ante el estallido de la crisis de la deuda externa. Todo ello por medio de la condicionalidad macroeconómica vinculada a la financiación concedida por estos organismos.";
         break;
 
         case "i16":
-        InfoText.innerHTML = "No hay informacion.";
+        InfoText.innerHTML = "El 25 de diciembre de 1991, Mijaíl Gorbachov se transformó en el último gobernante de la Unión de Repúblicas Socialistas Soviéticas (URSS). Ese día anunciaba en un discurso televisado al país y al mundo que oficialmente esta superpotencia comunista dejaba de existir.<br><br>De esta forma, la Unión Soviética desaparecía tras casi 70 años y al mismo tiempo se ponía término a más de cuatro décadas de Guerra Fría: la confrontación bipolar entre Washington y Moscú, surgida tras el término de la Segunda Guerra Mundial.";
         break;
 
         case "i17":
-        InfoText.innerHTML = "Sputnik 1, primer satelite en orbitar la tierra.";
+        InfoText.innerHTML = "El 4 de octubre de 1957 la Unión Soviética lanzaba al espacio el Sputnik 1, que con 83 kilogramos y del tamaño aproximado de una pelota de baloncesto, se convirtió en el primer satélite de fabricación humana en orbitar la Tierra.";
         break;
 
         case "i18":
-        InfoText.innerHTML = "Laika, primer animal en ir al espacio, muelta.";
+        InfoText.innerHTML = "El 3 de noviembre de 1957, la perra Laika se convirtió en el primer animal en viajar al espacio abordo del Sputnik 2. Una semana después del lanzamiento la perra murió debido a la falta de oxígeno.";
         break;
 
         case "i19":
-        InfoText.innerHTML = "Vanguard 1, primer satelite alimentado por energía solar y sigue orbitando actualmente, gran victoria para pEpEpUpU porque está re op y sigue arriba y en cambio los otros primeros satélites ya se cayeron.";
+        InfoText.innerHTML = "El 17 de mayo de 1958 la NASA ponía en órbita el Vanguard 1, el primer satélite alimentado por energía solar y una victoria importante para Estados Unidos en la carrera espacial. El primer ministro de la Unión Soviética en aquel momento, Nikita Jrushchov, lo despreció refiriéndose a él como «un pomelo». Sin embargo, los satélites Sputnik –considerablemente mayores– se salieron de su órbita y se calcinaron en su regreso a la Tierra en 1958, mientras que el Vanguard 1 todavía sigue en el espacio. A día de hoy sigue siendo el satélite artificial más antiguo presente en el espacio y se calcula que continuará en órbita alrededor de 240 años más.";
         break;
 
         case "i20":
-        InfoText.innerHTML = "El luna 2 se convierte en el primer objeto en impactar con la luna. Primera imagen de la cara oculta de la luna tomada por el Luna 3";
+        InfoText.innerHTML = "El 14 de septiembre de 1959 el Luna 2 de la URSS se convertía en el primer objeto terrestre en impactar en la Luna. En la imagen podemos observar a el luna 3.<br><br><br>El 7 de octubre de 1959 el satélite soviético Luna 3 tomaba las primeras imágenes de la cara oculta de la Luna.";
         break;
 
         case "i21":
-        InfoText.innerHTML = "Ham el chumpance se vuelve el primer homínido en ir al espacio, duro 16 minutos y 39 segundos.";
+        InfoText.innerHTML = "El 31 de enero de 1961 Ham el chimpancé se convertía en el primer homínido en viajar al espacio . Su vuelo duró 16 minutos y 39 segundos tras los que fue recatado en el océano Atlántico con solo una magulladura en la nariz.";
         break;
 
         case "i22":
-        InfoText.innerHTML = "Yuri Alekséyevich Gagarin se convirtió en el primer humano en viajar al espacio.";
+        InfoText.innerHTML = "El 12 de abril de 1961, a bordo de la Vostok 1, Yuri Alekséyevich Gagarin se convirtió en el primer ser humano en viajar al espacio exterior.";
         break;
 
         case "i23":
-        InfoText.innerHTML = "A bordo de la Vostok 6, Valentina Tereshkova se convertía en la primera mujer en viajar al espacio.";
+        InfoText.innerHTML = "El 16 de junio de 1963, a bordo de la Vostok 6, Valentina Tereshkova se convertía en la primera mujer en viajar a espacio en una misión que se prologaría durante 3 días y durante los cuales completó 48 vueltas alrededor de la Tierra.";
         break;
 
         case "i24":
-        InfoText.innerHTML = "Alexei Arkhipovich Leonov, quien viajaba a bordo de la Voskhod 2, se convierte en el primer ser humano en realizar un paseo espacial saliendo de la nave que compartía con el cosmonauta Pavel Belyayev durante 12 minutos.";
+        InfoText.innerHTML = "El 18 de marzo de 1965 Alexei Arkhipovich Leonov, quien viajaba a bordo de la Voskhod 2, se convertía en el primer ser humano en realizar una caminata espacial permaneciendo fuera de la nave que compartía con el cosmonauta Pavel Belyayev durante 12 minutos.";
         break;
 
         case "i25":
-        InfoText.innerHTML = "Primer vuelo espacial tripulado por humanos alrededor a la Luna. Se trata también del primer vuelo espacial humano en entrar en la influencia gravitatoria de otro cuerpo celeste. Neil Armstrong y Buzz Aldrin se convertían en los dos primeros hombre en posarse en la Luna a bordo del modulo Lunar Eagle de la misión Apolo 11.";
+        InfoText.innerHTML = "El 21 de diciembre de 1968 se produce el primer vuelo espacial tripulado por humanos en torno a la Luna. Se trata también del primer vuelo espacial humano en entrar en la influencia gravitatoria de otro cuerpo celeste. Su tripulación fue la primera  en la historia en ver la cara oculta de la Luna, así como los primeros en observar la Tierra desde nuestro satélite.<br><br>El 20 de Julio de 1969 Neil Armstrong y Buzz Aldrin se convertían en los dos primeros hombre en posarse en la Luna a bordo del modulo Lunar Eagle de la misión Apolo 11.";
         break;
 
         case "i26":
-        InfoText.innerHTML = "La Pioneer 10 de la NASA se convierte en la primera sonda espacial en alcanzar la órbita de Júpiter.";
+        InfoText.innerHTML = "El 3 de diciembre de 1973 la Pioneer 10 de la NASA se convierte en la primera sonda espacial en alcanzar la órbita de Júpiter.";
         break;
 
         case "i27":
-        InfoText.innerHTML = "La sonda Mariner 10 de la NASA se convierte en la primera en realizar un vuelo sobre mercurio.";
+        InfoText.innerHTML = "El 29 de marzo de 1974 la sonda Mariner 10 de la NASA se convierte en la primera en realizar un vuelo sobre el planeta mercurio.";
         break;
 
         case "i28":
-        InfoText.innerHTML = "Se produce en la órbita de la Tierra el acoplamiento de las naves Soyuz y Apolo 18. Se trato de la primera misión conjunta de las agencias espaciales de ambos países. Historiadores coinciden en que con este hecho se dio por finalizada la Guerra Fría";
+        InfoText.innerHTML = "El 15 de julio de 1975 se producía en la órbita de la Tierra el acoplamiento de las naves Soyuz y Apolo 18. Se trato de la primera misión conjunta de las agencias espaciales de ambos países. Historiadores coinciden en que con este hecho se dio por finalizada la Guerra Fría.";
         break;
 
 

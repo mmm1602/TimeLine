@@ -35,6 +35,11 @@
   margin: 40px 0px;
   cursor: pointer;
   transition: all .5s;
+  visibility: hidden;
+}
+
+.item.display {
+  visibility: visible;
 }
 
 .Separator {

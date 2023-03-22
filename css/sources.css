@@ -16,7 +16,7 @@ h1, h2 {
     margin: 2rem;
 }
 
-a {
+body > ul > li > a {
     color: rgb(163, 163, 255);
     text-decoration: underline;
 }

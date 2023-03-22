@@ -83,7 +83,7 @@ $(".item").click(function(e) {
         break;
 
         case "i19":
-        InfoText.innerHTML = "El 17 de mayo de 1958 la NASA ponía en órbita el Vanguard 1, el primer satélite alimentado por energía solar y una victoria importante para Estados Unidos en la carrera espacial. El primer ministro de la Unión Soviética en aquel momento, Nikita Jrushchov, lo despreció refiriéndose a él como «un pomelo». Sin embargo, los satélites Sputnik –considerablemente mayores– se salieron de su órbita y se calcinaron en su regreso a la Tierra en 1958, mientras que el Vanguard 1 todavía sigue en el espacio. A día de hoy sigue siendo el satélite artificial más antiguo presente en el espacio y se calcula que continuará en órbita alrededor de 240 años más.";
+        InfoText.innerHTML = "El 17 de mayo de 1958 la NASA ponía en órbita el Vanguard 1, el primer satélite alimentado por energía solar y una victoria importante para Estados Unidos en la carrera espacial. El primer ministro de la Unión Soviética en aquel momento, Nikita Jrushchov, lo despreció refiriéndose a él como «un pomelo». Sin embargo, los satélites Sputnik considerablemente mayores se salieron de su órbita y se calcinaron en su regreso a la Tierra en 1958, mientras que el Vanguard 1 todavía sigue en el espacio. A día de hoy sigue siendo el satélite artificial más antiguo presente en el espacio y se calcula que continuará en órbita alrededor de 240 años más.";
         break;
 
         case "i20":

@@ -47,7 +47,7 @@ $(".item").click(function(e) {
         break;
 
         case "i10":
-        InfoText.innerHTML = "No hay informacion.";
+        InfoText.innerHTML = "1953, en su campamento, el autodenominado hombre de acero sufrió una hemorragia cerebral y durante varias horas no recibió asistencia médica. En la tarde del día siguiente, el líder soviético fue encontrado en su apartamento tumbado en una alfombra y sin poder hablar. El sistema soviético sobreviviría mucho tiempo tras la desaparición de su creador. De hecho, el llamado proceso de desestalinización no se completó hasta la disolución de la URSS en 1990.";
         break;
 
         case "i11":
